@@ -4,7 +4,7 @@ Project to count how many fingers, you are holding up.
 ## Visualisation
 To see, whats going on, the image of your camera is getting displayed. Additionally the landmarks are drawn over it, to visualize which finger points up.
 
-<img src="https://picr.eu/images/2021/04/24/QcNOI.png" alt="QcNOI.png" border="0" />
+![QhFkI.png](https://picr.eu/images/2021/04/26/QhFkI.png)
 
 By moving the purple colored fingers up and down the number of raised fingers, changes.
 
